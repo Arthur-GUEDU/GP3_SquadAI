@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42b5bf07daa4c1498e47f5529295713, type: 3}
+  m_Name: LoseSightCondition
+  m_EditorClassIdentifier: Assembly-CSharp::AI.States.NotCondition
+  Condition: {fileID: 11400000, guid: 5e100cc7c44b08b44b5a660a8865f4f0, type: 2}
